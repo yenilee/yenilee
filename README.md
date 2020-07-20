@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ## BackEnd Developer 👩🏻‍💻 <br>
 ### Contact & Channel<br>
-[📬 Email](chloe.yeeunl@gmail.com)<br>
+[📬 Email](mailto:chloe.yeeunl@gmail.com)<br>
 [📋 Portfolio](https://www.notion.so/a9c1b11680b74058a12d041bdedca753)<br>
 [🖌 Blog](https://velog.io/@matisse)<br>
