@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyenilee)](https://hits.seeyoufarm.com)
 
-## BackEnd Developer 👩🏻‍💻🔥 <br>
+## BackEnd Developer 👩🏻‍💻 <br>
 [📬 Email](mailto:chloe.yeeunl@gmail.com)<br>
 [🌱 Notion](https://www.notion.so/a9c1b11680b74058a12d041bdedca753)
