@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 
 ## BackEnd Developer 👩🏻‍💻 <br>
 [📬 Email](mailto:chloe.yeeunl@gmail.com)<br>
-[🌱 Notion](https://www.notion.so/a9c1b11680b74058a12d041bdedca753)
