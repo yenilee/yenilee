@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ## Backend Developer 👩🏻‍💻 <br>
 [📬 Email](mailto:chloe.yeeunl@gmail.com)<br>
-[📮 Blog](https://yenilee.github.io)
+[🏠 Blog](https://yenilee.github.io)
